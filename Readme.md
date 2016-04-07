@@ -4,11 +4,11 @@ A Khaos template to start new redux effects library quickly.
 
 ## Installation
 
-`$ khaos install redux-effects/khaos redux-effects`
+`$ khaos install joshrtay/khaos-node node`
 
 ## Usage
 
-`$ khaos redux-effects <project>`
+`$ khaos node <project>`
 
 ## License
 

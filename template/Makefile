@@ -9,10 +9,10 @@ BIN = ./node_modules/.bin
 # Tasks
 #
 
-test: node_modules
+test:
 	@node test/*
 
-validate: node_modules
+validate:
 	@standard
 
 all: validate test

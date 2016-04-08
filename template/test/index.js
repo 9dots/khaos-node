@@ -2,13 +2,13 @@
  * Imports
  */
 
-import test from 'tape'
-import {{basename}} from '../src'
+const test = require('tape')
+const {{basename}} = require('..')
 
 /**
  * Tests
  */
 
-test('should work', () => {
+test('should work', (t) => {
 
 })

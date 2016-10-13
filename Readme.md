@@ -4,7 +4,7 @@ A Khaos template to start new redux effects library quickly.
 
 ## Installation
 
-`$ khaos install joshrtay/khaos-node node`
+`$ khaos install 9dots/khaos-node node`
 
 ## Usage
 

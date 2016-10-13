@@ -21,7 +21,7 @@ init:
 	@git init
 	@git add .
 	@git commit -am "FIRST"
-	@hub create joshrtay/{{basename}} -d "{{description}}"
+	@hub create 9dots/{{basename}} -d "{{description}}"
 	@travis enable
 	@git push -u origin master
 
